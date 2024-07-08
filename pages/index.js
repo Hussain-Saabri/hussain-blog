@@ -7,7 +7,7 @@ import Footer from "../components/Footer";
 import Modal from "../components/Modal";
 import Demo1_antd from "../components/Demo1_antd";
 import ContactForm from './ContactForm';
-import ScrollToTop from '../components/scrollToTop';
+import ScrollToTop from '../components/ScrollToTop';
 
 const Index = () => {
   const router = useRouter();
