@@ -2,7 +2,7 @@
 
 import Image from 'next/image';
 import Link from "next/link";
-import ScrollToTop from './scrollToTop';
+
 
 const Navbar = ({ scrollToContact,navbaref}) => {
   return (
